@@ -118,6 +118,7 @@ function Time(){
        </div>
        <div class="row row1">
            <div class="col-lg-2 col1 col12">
+          
            <input name="value1" class="inputclass" onChange={handleChange}></input></div> <div class="col-lg-2 col2">
            <DropdownButton id="dropdown-basic-button" title={currency2}>
   <Dropdown.Item href="#/0" id="0" name="name1" onClick={handleClick}>USD</Dropdown.Item>
