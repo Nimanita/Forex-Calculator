@@ -1,0 +1,52 @@
+.title{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:chocolate;
+}
+.timebox{
+    border: 6px solid hsl(246, 75%, 36%);
+  width:80%;
+  margin: auto;
+}
+.written{
+   padding-top: 20px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   color:crimson;
+   padding-bottom: 30px;
+}
+.disclaimer{
+  color:black;
+}
+.row1,.row2{
+  margin-bottom: 30px;
+  justify-content: center;
+}
+.row1.col1,.row2.col1{
+  padding-right: 30px;
+}
+#dropdown-basic-button{
+  background-color: rgb(197, 16, 16);
+}
+
+.col11,.col12{
+  border: 6px solid hsl(0, 76%, 49%);
+}
+input, select, textarea{
+ background-color: none;
+ border:none;
+ outline: none;
+ text-align: center;
+}
+input::placeholder{
+  background-color: #f00;
+}
+
+.inputclass{
+ 
+  border: none;
+  padding: 0px;
+  width:100%;
+  margin: 0px;
+  text-rendering: unset;
+}
